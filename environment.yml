@@ -1,0 +1,21 @@
+name: cmip6-jordan
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - xarray
+  - numpy
+  - pandas
+  - matplotlib
+  - cartopy
+  - geopandas
+  - regionmask
+  - shapely
+  - pyproj
+  - scipy
+  - netCDF4
+  - h5netcdf
+  - dask
+  - pip
