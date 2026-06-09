@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this Dataset, please cite it as below."
+authors:
+- family-names: "Hussien"
+  given-names: "Moawiah"
+  orcid: "https://orcid.org/0009-0005-5561-2914"
+title: "jordan-cmip6-precipitation"
+version: 0.1.0
+doi: 10.5281/zenodo.20613053
+date-released: 2026-06-09
+url: "https://github.com/MoawiahHussien/jordan-cmip6-precipitation"
