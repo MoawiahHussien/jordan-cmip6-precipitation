@@ -17,7 +17,7 @@ The study evaluates six bias-adjusted dynamically downscaled CMIP6-driven simula
 
 Large NetCDF files (raw daily inputs and projection difference outputs, ~1 GB each) are archived on Zenodo:
 
-**Zenodo repository:** https://doi.org/10.5281/zenodo.XXXXXXX
+**Zenodo repository:** [![DOI](https://zenodo.org/badge/1264061443.svg)](https://doi.org/10.5281/zenodo.20613052) 
 
 The Zenodo archive contains:
 - `input_nc/` — Raw daily bias-adjusted HCLIM-ALADIN-38 simulations for 6 driving GCMs (historical + SSP2-4.5 + SSP5-8.5)
