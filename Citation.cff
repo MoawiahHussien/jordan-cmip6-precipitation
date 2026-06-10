@@ -4,7 +4,7 @@ authors:
 - family-names: "Hussien"
   given-names: "Moawiah"
   orcid: "https://orcid.org/0009-0005-5561-2914"
-title: "title: "Research code and analysis notebooks for evaluating CMIP6 precipitation projections across Jordan"
+title: "Research code and analysis notebooks for evaluating CMIP6 precipitation projections across Jordan"
 version: 0.1.0
 doi: 10.5281/zenodo.20613053
 date-released: 2026-06-09
