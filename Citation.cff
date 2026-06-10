@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this Dataset, please cite it as below."
+message: "If you use this research code or associated materials, please cite it as below."
 authors:
 - family-names: "Hussien"
   given-names: "Moawiah"
   orcid: "https://orcid.org/0009-0005-5561-2914"
-title: "jordan-cmip6-precipitation"
+title: "title: "Research code and analysis notebooks for evaluating CMIP6 precipitation projections across Jordan""
 version: 0.1.0
 doi: 10.5281/zenodo.20613053
 date-released: 2026-06-09
